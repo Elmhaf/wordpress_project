@@ -3,7 +3,7 @@ IS373 wordpress project
 
 
 # Video
-<img src="./images/wordpress.gif"
+<img src="./images/wordpress1.gif"
      alt="video proof"
      style="float: left; margin-right: 10px;" />
 
