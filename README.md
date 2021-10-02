@@ -36,4 +36,3 @@ IS373 wordpress project
      style="float: left; margin-right: 10px;" />
 
 
-     Testing Long Commit message
