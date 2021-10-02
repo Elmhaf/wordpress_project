@@ -34,3 +34,6 @@ IS373 wordpress project
 <img src="./images/approved.png"
      alt="video proof"
      style="float: left; margin-right: 10px;" />
+
+
+     Testing Long Commit message
